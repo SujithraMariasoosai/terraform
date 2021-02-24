@@ -1,3 +1,3 @@
-git clone https://github.com/Vino-stack/repo-wp-.git
+git clone https:https://github.com/SujithraMariasoosai/terraform.git
 sudo sh install.sh
 sudo ufw allow 22
